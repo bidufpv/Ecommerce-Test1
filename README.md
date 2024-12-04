@@ -1,3 +1,3 @@
 # Ecommerce-Test1
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bidufpv/Ecommerce-Test1)
+This repo is just for testing bolt.ai and v0.dev, for learning more about the technologies they are using.
